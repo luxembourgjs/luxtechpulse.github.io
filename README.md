@@ -9,6 +9,6 @@ No frameworks, just pure and simple html with some js and some css.
 npm install
 ````
 
-# How to add slides
-- Add your slides to the JSON file `data/pres-data.json`
+# How to add new presentations
+- Add your presentation to the JSON file `data/pres-data.json`
 - Make a pull request (or push to master if you have the rights)

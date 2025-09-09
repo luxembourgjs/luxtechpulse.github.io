@@ -1,8 +1,50 @@
 {
   "slides": [
     {
-      "link": "https://www.meetup.com/luxtechpulse/events/305991140/",
+      "link": "https://www.meetup.com/luxtechpulse/events/310360930",
       "thumb": "",
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/310360930",
+      "title": "AI Agents: The Industrial Revolution of the SDLC",
+      "date": "September 2025",
+      "authors": [
+        {
+          "name": "Aleksandr Regner",
+          "link": "https://www.linkedin.com/in/aleksandrregner",
+          "image": "img/speakers/regner.jpeg"
+        }
+      ]
+    },
+    {
+      "link": "https://youtu.be/mZn9QSydDc0",
+      "thumb": "https://img.youtube.com/vi/mZn9QSydDc0/maxresdefault.jpg",
+      "title": "Switching from Startup to Enterprise",
+      "slidesLink": "https://prezi.com/p/kzm-zimdm7bb/hedy-lamarr-hollywood-and-wi-fi/",
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/310360930",
+      "date": "July 2025",
+      "authors": [
+        {
+          "name": "Nadiia Perekuta",
+          "link": "https://www.linkedin.com/in/perekutanadiia",
+          "image": "img/speakers/perekuta.jpeg"
+        }
+      ]
+    },
+    {
+      "link": "https://youtu.be/h3ApdWTGuPg",
+      "thumb": "https://img.youtube.com/vi/h3ApdWTGuPg/maxresdefault.jpg",
+      "title": "20 minute adventure: validating geometry polygons",
+      "date": "July 2025",
+      "authors": [
+        {
+          "name": "Anton Kabysh",
+          "link": "https://www.linkedin.com/in/anton-kabysh",
+          "image": "img/speakers/kabysh.jpeg"
+        }
+      ]
+    },
+    {
+      "link": "https://youtu.be/9VfaEqCIwMw",
+      "thumb": "https://img.youtube.com/vi/9VfaEqCIwMw/maxresdefault.jpg",
       "title": "Switching from Startup to Enterprise",
       "date": "March 2025",
       "authors": [
@@ -14,28 +56,28 @@
       ]
     },
     {
-      "link": "https://www.meetup.com/luxtechpulse/events/305991140/",
-      "thumb": "",
+      "link": "https://youtu.be/MgUDpw4oRiM",
+      "thumb": "https://img.youtube.com/vi/MgUDpw4oRiM/maxresdefault.jpg",
       "title": "Finding my own way: ups and downs of having a business in Luxembourg",
       "date": "March 2025",
       "authors": [
         {
           "name": "Tetyana Karpenko",
           "link": "https://www.linkedin.com/in/tetyanakarpenko",
-          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHUH-Pptle6gg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705655149274?e=1750291200&v=beta&t=ha_PUWho7T3KGT1JfQWXjd0KbhFUG762SK75vCuf8_Q"
+          "image": "img/speakers/karpenko.jpeg"
         }
       ]
     },
     {
-      "link": "https://www.meetup.com/luxtechpulse/events/305991140/",
-      "thumb": "",
+      "link": "https://youtu.be/p1m3UIwlXiQ",
+      "thumb": "https://img.youtube.com/vi/p1m3UIwlXiQ/maxresdefault.jpg",
       "title": "A comprehensive look at the rapid evolution of AI",
       "date": "March 2025",
       "authors": [
         {
           "name": "Orsolya Morzsik",
           "link": "https://www.linkedin.com/in/orsolya-morzsik-734556178/",
-          "image": "https://media.licdn.com/dms/image/v2/C5603AQHD1iSjQ9S4jQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1637239703047?e=1750291200&v=beta&t=C82QkR7GbBBAwd962z3GEa4LljLOqKnGEUYrs6OX_ss"
+          "image": "img/speakers/morzsik.jpeg"
         }
       ]
     },
@@ -54,7 +96,7 @@
     },
     {
       "link": "https://www.youtube.com/watch?v=squoZBphfew",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/squoZBphfew/maxresdefault.jpg",
       "title": "Embrace Angular Renaissance with Best Practices",
       "date": "January 2025",
       "authors": [
@@ -68,7 +110,7 @@
     },
     {
       "link": "https://www.youtube.com/watch?v=1zWURuqUP9s",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/1zWURuqUP9s/maxresdefault.jpg",
       "title": "Data Persistence with Service Workers",
       "date": "January 2025",
       "authors": [
@@ -80,8 +122,10 @@
       ]
     },
     {
-      "link": "https://www.meetup.com/de-DE/luxtechpulse/events/304652225",
-      "thumb": "",
+      "link": "https://youtu.be/x6_Uea2JAFU",
+      "thumb": "https://img.youtube.com/vi/x6_Uea2JAFU/maxresdefault.jpg",
+      "slidesLink": "https://prezi.com/view/X2Ym2dBAdEJhUqycUHKP/",
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/304652225",
       "title": "Blockchain Unraveled",
       "date": "November 2024",
       "authors": [
@@ -94,8 +138,9 @@
       ]
     },
     {
-      "link": "https://www.meetup.com/de-DE/luxtechpulse/events/304652225",
+      "link": "https://www.meetup.com/luxtechpulse/events/304652225",
       "thumb": "",
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/304652225",
       "title": "Optimization of Mobile Development Strategies for Maximum Business Impact",
       "date": "November 2024",
       "authors": [
@@ -107,9 +152,11 @@
       ]
     },
     {
-      "link": "https://slides.com/salamaashoush/signals",
-      "thumb": "",
+      "link": "https://www.youtube.com/watch?v=4Y5R67aRk_g",
+      "slidesLink": "https://slides.com/salamaashoush/signals",
+      "thumb": "https://img.youtube.com/vi/4Y5R67aRk_g/maxresdefault.jpg",
       "title": "Fine-Tuning Your Reactivity (Harnessing the Power of Signals)",
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/310360930",
       "date": "July 2024",
       "authors": [
         {
@@ -120,35 +167,36 @@
       ]
     },
     {
-      "link": "",
-      "thumb": "",
+      "link": "https://www.youtube.com/watch?v=Dga6qdcPP8A",
+      "thumb": "https://img.youtube.com/vi/Dga6qdcPP8A/maxresdefault.jpg",
+      "slidesLink": "https://drive.google.com/file/d/1iALiPtfSWdfqw_ey3v-viYahQXF4jMAy",
       "title": "Next.JS – Server-side rendering pros and cons",
       "date": "July 2024",
       "authors": [
         {
           "name": "Sviatoslav Tretiak",
           "link": "https://www.linkedin.com/in/stiweb",
-          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFCrsUa323Ieg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699299702816?e=1750291200&v=beta&t=k-dbSlEgFmkuNFXx1NDEGG9o0lFx11H0k6qmseIDy00"
+          "image": "img/speakers/tretiak.jpeg"
         }
       ]
     },
     {
       "link": "https://www.youtube.com/watch?v=ketiLJf2agg",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/ketiLJf2agg/maxresdefault.jpg",
       "title": "Reviewing Remote Procedure Calls (RPC)",
       "date": "May 2024",
       "authors": [
         {
           "name": "Anton Kabysh",
           "link": "https://www.linkedin.com/in/anton-kabysh",
-          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGHO7KNq8jaKw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519043230180?e=1750291200&v=beta&t=WiFnc3vQhF9oXX2NopoGrqfu5PdrxShis-Mc5GjcMXU",
+          "image": "img/speakers/kabysh.jpeg",
           "github": "https://github.com/anton-kabysh-spire"
         }
       ]
     },
     {
       "link": "https://www.youtube.com/watch?v=DZu-DxAD6Uk",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/DZu-DxAD6Uk/hqdefault.jpg",
       "title": "From Zero to Qwik: Building Your First App with Confidence",
       "date": "May 2024",
       "authors": [
@@ -162,46 +210,46 @@
     },
     {
       "link": "https://www.youtube.com/watch?v=em5Q2q5MmDY",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/em5Q2q5MmDY/maxresdefault.jpg",
       "title": "Core JavaScript, and the importance of understanding it",
       "date": "April 2024",
       "authors": [
         {
           "name": "Levon Asatryan",
           "link": "https://www.linkedin.com/in/asatryan-levon",
-          "image": "https://media.licdn.com/dms/image/v2/D4E03AQFq_Kcep0sbkA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715345758468?e=1750291200&v=beta&t=xC-l69phcpz-34hS1HVgEW9TpcSZoT_B-mbggrxuDFg"
+          "image": "img/speakers/asatryan-levon.jpeg"
         }
       ]
     },
     {
       "link": "https://www.youtube.com/watch?v=Q7sH6O46cEk",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/Q7sH6O46cEk/maxresdefault.jpg",
       "title": "Chrome tools to test Accessibility",
       "date": "April 2024",
       "authors": [
         {
           "name": "Glafira Zhur",
           "link": "https://www.linkedin.com/in/glafira-zhur",
-          "image": "https://media.licdn.com/dms/image/v2/D4E03AQHQVuqlIgNuJw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1687258959514?e=1750291200&v=beta&t=2EX6Y4f6P0Y0t0m2x-N0f8G_XuMomqgj4ln3-NeHQg8"
+          "image": "img/speakers/glafira-zhur.jpeg"
         }
       ]
     },
     {
       "link": "https://www.youtube.com/watch?v=xY255u_k44E",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/xY255u_k44E/maxresdefault.jpg",
       "title": "Exploring the most commonly used operators of the RxJS library",
       "date": "March 2024",
       "authors": [
         {
           "name": "Avgi Sotiropoulou",
           "link": "https://www.linkedin.com/in/avgi-sotiropoulou",
-          "image": "https://media.licdn.com/dms/image/v2/D4E03AQEtI6jLnhyjWw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727620187420?e=1750291200&v=beta&t=28VUC7w9Jll_wwRU16hTVDupowuHrswx_o3foKZGeFk"
+          "image": "img/speakers/avgi-sotiropoulou.jpeg"
         }
       ]
     },
     {
       "link": "https://www.youtube.com/watch?v=pFOJJ3Epyys",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/pFOJJ3Epyys/maxresdefault.jpg",
       "title": "Redefining Security: From Passwords to Biometrics and Digital Signatures",
       "date": "March 2024",
       "authors": [
@@ -214,7 +262,7 @@
     },
     {
       "link": "https://www.youtube.com/watch?v=38fgFKZ4doo",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/38fgFKZ4doo/maxresdefault.jpg",
       "title": "Store the data on the Frontend side",
       "date": "May 2023",
       "authors": [
@@ -227,7 +275,7 @@
     },
     {
       "link": "https://www.youtube.com/watch?v=PDf_3lHTLpc",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/PDf_3lHTLpc/maxresdefault.jpg",
       "title": "Happy Healthy Team",
       "date": "May 2023",
       "authors": [
@@ -240,7 +288,7 @@
     },
     {
       "link": "https://www.youtube.com/watch?v=MbOroGOnyyc",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/MbOroGOnyyc/maxresdefault.jpg",
       "title": "Core Web Vitals",
       "date": "November 2022",
       "authors": [
@@ -253,7 +301,7 @@
     },
     {
       "link": "https://www.youtube.com/watch?v=Ss1LiVuGMuc",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/Ss1LiVuGMuc/maxresdefault.jpg",
       "title": "Frontend apps analysis in prod",
       "date": "November 2022",
       "authors": [
@@ -265,7 +313,7 @@
       ]
     },
     {
-      "link": "",
+      "link": "https://www.meetup.com/luxtechpulse/events/276625827",
       "thumb": "",
       "title": "Flower Monday – Women in IT in Luxembourg",
       "date": "March 2021",
@@ -277,7 +325,8 @@
         },
         {
           "name": "Marina Andrieu",
-          "link": ""
+          "link": "https://www.linkedin.com/in/marinaandrieu/",
+          "image": "img/speakers/marina-andrieu.jpeg"
         },
         {
           "name": "Vasilika Klimova",
@@ -286,11 +335,13 @@
         },
         {
           "name": "Chaithra Kakunje",
-          "link": ""
+          "link": "https://www.linkedin.com/in/chaithrakakunje/",
+          "image": "img/speakers/chaithrakakunje.jpeg"
         },
         {
           "name": "Dimitra-Niki Mazaraki",
-          "link": ""
+          "link": "https://www.linkedin.com/in/dimitramazaraki/",
+          "image": "img/speakers/dimitramazaraki.jpeg"
         }
       ]
     },
@@ -308,7 +359,7 @@
       ]
     },
     {
-      "link": "",
+      "link": "https://www.meetup.com/luxtechpulse/events/275348104",
       "thumb": "",
       "title": "Managing Async State With React-Query",
       "date": "February 2021",
@@ -321,8 +372,9 @@
       ]
     },
     {
-      "link": "https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/",
+      "link": "https://www.meetup.com/luxtechpulse/events/272682240",
       "thumb": "",
+      "slidesLink": "https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations",
       "title": "Enhancing User Experience With CSS Animations",
       "date": "November 2020",
       "authors": [
@@ -334,7 +386,7 @@
       ]
     },
     {
-      "link": "",
+      "link": "https://www.meetup.com/luxtechpulse/events/272682240",
       "thumb": "",
       "title": "Using a Monorepos to deliver products",
       "date": "November 2020",
@@ -346,7 +398,7 @@
       ]
     },
     {
-      "link": "https://goblindegook.github.io/talks/testing-library.html",
+      "slidesLink": "https://goblindegook.github.io/talks/testing-library.html",
       "thumb": "",
       "title": "testing-library",
       "date": "November 2020",
@@ -360,7 +412,7 @@
       ]
     },
     {
-      "link": "",
+      "link": "https://www.meetup.com/luxtechpulse/events/272682228",
       "thumb": "",
       "title": "Azure Javascript Services",
       "date": "November 2020",
@@ -374,7 +426,7 @@
       ]
     },
     {
-      "link": "https://thibaultmilan.com/blog/2020/09/20/upcoming-talk-to-js-meetup-jamstack/",
+      "slidesLink": "https://thibaultmilan.com/blog/2020/09/20/upcoming-talk-to-js-meetup-jamstack/",
       "thumb": "",
       "title": "How to jump into the JAMStack rocket 🚀 right now",
       "date": "October 2020",
@@ -388,7 +440,7 @@
       ]
     },
     {
-      "link": "",
+      "link": "https://www.meetup.com/luxtechpulse/events/272682214",
       "thumb": "",
       "title": "The lost art of keyboard navigation",
       "date": "October 2020",
@@ -402,8 +454,8 @@
       ]
     },
     {
-      "link": "",
-      "thumb": "",
+      "link": "https://youtu.be/lZdEfKVqFDQ",
+      "thumb": "https://img.youtube.com/vi/lZdEfKVqFDQ/hqdefault.jpg",
       "title": "The Power of Pseudo-Elements – A CSS tale from ::before to ::after",
       "date": "August 2020",
       "authors": [
@@ -416,8 +468,8 @@
       ]
     },
     {
-      "link": "",
-      "thumb": "",
+      "link": "https://youtu.be/lZdEfKVqFDQ?si=3pVKX6N03-nVHK77&t=2880",
+      "thumb": "https://img.youtube.com/vi/lZdEfKVqFDQ/hqdefault.jpg",
       "title": "The Phantom of the App: Background Services",
       "date": "August 2020",
       "authors": [
@@ -430,7 +482,7 @@
     },
     {
       "link": "https://www.youtube.com/watch?v=-yv0spTdgl8",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/-yv0spTdgl8/hqdefault.jpg",
       "title": "Svelte and inclusive development",
       "date": "July 2020",
       "authors": [
@@ -443,7 +495,7 @@
     },
     {
       "link": "https://www.youtube.com/watch?v=-yv0spTdgl8",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/-yv0spTdgl8/hqdefault.jpg",
       "title": "Github Actions: CI, CD, housekeeping, personal assistant and your barista",
       "date": "July 2020",
       "authors": [
@@ -457,7 +509,7 @@
     },
     {
       "link": "https://www.youtube.com/watch?v=0RPvVj9pL7w",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/0RPvVj9pL7w/hqdefault.jpg",
       "title": "The PWA Cheat Sheet 2020",
       "date": "June 2020",
       "authors": [
@@ -470,7 +522,7 @@
     },
     {
       "link": "https://youtu.be/0RPvVj9pL7w?si=21Ptsi_geWNw9vMP&t=3551",
-      "thumb": "",
+      "thumb": "https://img.youtube.com/vi/0RPvVj9pL7w/hqdefault.jpg",
       "title": "Implementing Static Websites",
       "date": "June 2020",
       "authors": [
@@ -483,20 +535,22 @@
       ]
     },
     {
-      "link": "https://zmoki.github.io/talk-webcam-2017-shower/",
-      "thumb": "",
+      "link": "https://youtu.be/EOnWYOvTc50",
+      "thumb": "https://img.youtube.com/vi/EOnWYOvTc50/hqdefault.jpg",
+      "slidesLink": "https://zmoki.github.io/talk-webcam-2017-shower",
       "title": "Playful webcam",
       "date": "May 2020",
       "authors": [
         {
           "name": "Zarema Khalilova",
-          "link": "https://zmoki.github.io/",
+          "link": "https://www.linkedin.com/in/zaremakhalilova",
           "github": "https://github.com/zmoki"
         }
       ]
     },
     {
-      "link": "https://github.com/themarcba/vue-reactivity",
+      "link": "https://youtu.be/EOnWYOvTc50?si=j2r-UFVftz8zASCK&t=2689",
+      "slidesLink": "https://github.com/themarcba/vue-reactivity",
       "thumb": "",
       "title": "Building Vue.js Reactivity From Scratch",
       "date": "May 2020",
@@ -524,7 +578,7 @@
       ]
     },
     {
-      "link": "",
+      "link": "https://www.meetup.com/luxtechpulse/events/266459718",
       "thumb": "",
       "title": "Data Fetching patterns with React Suspense",
       "date": "February 2020",
@@ -532,7 +586,7 @@
         {
           "name": "Anton Kabysh",
           "link": "https://www.linkedin.com/in/anton-kabysh/",
-          "image": "https://media.licdn.com/dms/image/v2/C4E03AQGHO7KNq8jaKw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519043230180?e=1750291200&v=beta&t=WiFnc3vQhF9oXX2NopoGrqfu5PdrxShis-Mc5GjcMXU",
+          "image": "img/speakers/kabysh.jpeg",
           "github": "https://github.com/anton-kabysh-spire"
         }
       ]
@@ -560,8 +614,7 @@
         {
           "name": "Viktor Vincze",
           "link": "https://github.com/wintercounter",
-          "github": "https://github.com/wintercounter",
-          "image": "https://media.licdn.com/dms/image/v2/D4E35AQHVjmet94rylg/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1688558966805?e=1745154000&v=beta&t=Lgy04ljnYNQi_8-hxJ1EpoEgH0FkJXrXnsRBfRuVB7o"
+          "github": "https://github.com/wintercounter"
         }
       ]
     },
@@ -574,8 +627,7 @@
         {
           "name": "Jean-Marie Bourbon",
           "link": "https://twitter.com/kmkz_security",
-          "github": "https://github.com/kmkz",
-          "image": "https://media.licdn.com/dms/image/v2/D4E03AQG2iVOgGF8aiQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695995119963?e=1750291200&v=beta&t=LFwF0sBGOteOGHiuxRmHFwftsJKCEPkA0FFRKtoM3Z0"
+          "github": "https://github.com/kmkz"
         }
       ]
     },
@@ -613,7 +665,8 @@
       "authors": [
         {
           "name": "Marie Baudy",
-          "link": "https://twitter.com/pttmary"
+          "link": "https://www.linkedin.com/in/marie-baudy-gazel-946b657",
+          "image": "img/speakers/marie-baudy.jpeg"
         },
         {
           "name": "Artur Spulnik"
@@ -628,7 +681,8 @@
       "authors": [
         {
           "name": "Karl Devooght",
-          "link": "https://github.com/kawan16"
+          "link": "https://github.com/kawan16",
+          "github": "https://github.com/kawan16"
         }
       ]
     },
@@ -641,7 +695,7 @@
         {
           "name": "Rachel Nabors",
           "link": "http://rachelnabors.com/",
-          "github": "https://github.com/rachelnabors"
+          "github": "https://github.com/nearestnabors"
         }
       ]
     },
@@ -677,7 +731,8 @@
       "authors": [
         {
           "name": "Jean-pierre Vincent",
-          "link": "https://twitter.com/theystolemynick"
+          "link": "https://www.linkedin.com/in/jeanpierrevincent",
+          "image": "img/speakers/jeanpierrevincent.jpeg"
         }
       ]
     },
@@ -689,7 +744,8 @@
       "authors": [
         {
           "name": "Bertrand Chevrier",
-          "link": "https://twitter.com/kramp"
+          "link": "https://www.linkedin.com/in/chevrierbertrand",
+          "image": "img/speakers/chevrierbertrand.jpeg"
         }
       ]
     },
@@ -873,7 +929,8 @@
       "authors": [
         {
           "name": "Cyril Walle",
-          "link": "https://github.com/GrosSacASac/"
+          "link": "https://www.linkedin.com/in/cyril-walle-781567157/",
+          "github": "https://github.com/GrosSacASac"
         }
       ]
     },
@@ -887,7 +944,7 @@
           "name": "Anton Kabysh",
           "link": "https://github.com/anton-kabysh-mm",
           "github": "https://github.com/anton-kabysh-mm",
-          "image": "img/speakers/anton_kabysh.jpg"
+          "image": "img/speakers/kabysh.jpeg"
         }
       ]
     },
@@ -899,7 +956,8 @@
       "authors": [
         {
           "name": "Arthur Spitznagel",
-          "link": "https://twitter.com/arthurspitznage"
+          "link": "https://www.linkedin.com/in/arthur-spitznagel-33aba766",
+          "image": "img/speakers/arthur-spitznagel.jpeg"
         }
       ]
     },
@@ -911,7 +969,8 @@
       "authors": [
         {
           "name": "Alfonso Garcia",
-          "link": "https://www.yotako.io"
+          "link": "https://www.linkedin.com/in/algar/",
+          "image": "img/speakers/alfonso.jpeg"
         }
       ]
     },
@@ -936,7 +995,8 @@
       "authors": [
         {
           "name": "Jean-Sébastien Sottet",
-          "link": "https://twitter.com/reversal_js"
+          "link": "https://www.linkedin.com/in/jean-sebastien-sottet",
+          "image": "img/speakers/jean-sebastien-sottet.jpeg"
         }
       ]
     }

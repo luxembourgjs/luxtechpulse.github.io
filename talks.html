@@ -82,7 +82,7 @@
         talkElement.className = 'talk-card';
 
         const link = document.createElement('a');
-        link.href = talk.link || '#';
+        link.href = talk.link || talk.slidesLink || '#';
         link.className = 'talk-link';
         if (talk.link) {
           link.target = '_blank';
@@ -132,8 +132,11 @@
 
         const links = document.createElement('div');
         links.className = 'talk-links';
-        if (talk.link) {
-          links.innerHTML = `<a href="${talk.link}" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i> View Presentation</a>`;
+        if (talk.slidesLink) {
+          links.innerHTML = `<a href="${talk.slidesLink}" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i> View Presentation</a>`;
+        }
+        if (talk.eventLink) {
+          links.innerHTML = `${links.innerHTML}<a href="${talk.eventLink}" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i> Details</a>`;
         }
 
         const date = document.createElement('div');
