@@ -696,6 +696,7 @@
       "thumb": "pres_thumb/webgl_AKo.png",
       "title": "WebGL and 2D: simple as Web",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/258504835",
+      "slidesLink": "http://lekzd.ru/presentations/webgl_simple_luxembourg/",
       "date": "June 2019",
       "authors": [
         {
@@ -728,6 +729,7 @@
       "thumb": "pres_thumb/nest_DKa.png",
       "title": "Nest - A Progressive Node.js Framework",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/258104686",
+      "slidesLink": "https://github.com/kawan16/nest-heroes/raw/master/Meetup%20Javascript%20Luxembourg%20-%20Nest.pdf",
       "date": "May 2019",
       "authors": [
         {
@@ -742,6 +744,7 @@
       "thumb": "pres_thumb/vue_in_motion_NRa.png",
       "title": "Vue in Motion",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/256815834",
+      "slidesLink": "https://www.slideshare.net/CrowChick/vue-in-motion",
       "date": "April 2019",
       "authors": [
         {
@@ -756,6 +759,7 @@
       "thumb": "pres_thumb/intro_vue_BSa.png",
       "title": "Intro to Vue.js",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/256815834",
+      "slidesLink": "pres/intro_vue.pdf",
       "date": "April 2019",
       "authors": [
         {
@@ -768,6 +772,7 @@
       "thumb": "pres_thumb/lightning_fast_ux_SWa.jpg",
       "title": "Lightning fast UX: faking performance when there’s no code left to optimize",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/255225624",
+      "slidesLink": "https://speakerdeck.com/stephaniewalter/lightning-fast-ux-faking-performance-when-theres-no-code-left-to-optimize",
       "date": "March 2019",
       "authors": [
         {
@@ -782,6 +787,7 @@
       "thumb": "pres_thumb/web_perf_2019_JEv.png",
       "title": "Web Performance in 2019",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/255225624",
+      "slidesLink": "pres/webperf_2019.pptx",
       "date": "March 2019",
       "authors": [
         {
@@ -796,6 +802,7 @@
       "thumb": "pres_thumb/offline-web-app_XYZ.png",
       "title": "Offline Web Apps",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/254754996",
+      "slidesLink": "https://krampstudio.com/offline-webapp-talk/",
       "date": "February 2019",
       "authors": [
         {
@@ -810,6 +817,7 @@
       "thumb": "pres_thumb/mobile_browsers_SWa.png",
       "title": "Super Secret Powers of Mobile Browsers",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/257124121",
+      "slidesLink": "https://speakerdeck.com/stephaniewalter/super-powers-of-modern-mobile-browsers",
       "date": "January 2019",
       "authors": [
         {
@@ -824,6 +832,7 @@
       "thumb": "pres_thumb/typescript_GMo.png",
       "title": "Typescript: tips and best practices",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245703924",
+      "slidesLink": "https://docs.google.com/presentation/d/1HCeTpKv6lCXCGJFtkRFoVbkmd_C5-Ggv4h4JlxHyaXQ/edit#slide=id.g45f10dffa6_0_0",
       "date": "December 2018",
       "authors": [
         {
@@ -843,6 +852,7 @@
       "thumb": "pres_thumb/webgl_VKl.png",
       "title": "WebGL Practical application",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245703924",
+      "slidesLink": "https://www.slideshare.net/vasilikaklimova/webgl-practical-application",
       "date": "December 2018",
       "authors": [
         {
@@ -857,6 +867,7 @@
       "thumb": "pres_thumb/angular_element_NFr.png",
       "title": "Angular Element",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245703907",
+      "slidesLink": "https://slides.com/nicolasfrizzarin/angular-element/fullscreen",
       "date": "November 2018",
       "authors": [
         {
@@ -870,6 +881,7 @@
       "link": "pres/devops_SBo.pdf",
       "thumb": "pres_thumb/devops_SBo.png",
       "title": "Deploy fast and well",
+      "slidesLink": "pres/devops_SBo.pdf",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245703907",
       "date": "November 2018",
       "authors": [
@@ -883,6 +895,7 @@
       "thumb": "pres_thumb/mockoon_GUm.png",
       "title": "Mockoon",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245703844",
+      "slidesLink": "https://docs.google.com/presentation/d/1lhDgVUUWlqhN6ZbWL1Dad0QUwcxPV8zMHp9ssRohZxA/edit?usp=sharing",
       "date": "October 2018",
       "authors": [
         {
@@ -911,6 +924,7 @@
       "thumb": "pres_thumb/chatbot_FFa.png",
       "title": "Building chatbots without Cloud",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245703887",
+      "slidesLink": "https://github.com/ffauchille/js-meetup-lu-chatbot/blob/master/Building%20chatbot%20without%20cloud.pdf",
       "date": "September 2018",
       "authors": [
         {
@@ -939,6 +953,7 @@
       "thumb": "pres_thumb/serverless_TNi.jpg",
       "title": "On Serverless - Using Serverless in Production",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245703859",
+      "slidesLink": "https://speakerdeck.com/littleiffel/reflections-on-operating-a-serverless-api",
       "date": "June 2018",
       "authors": [
         {
@@ -953,6 +968,7 @@
       "thumb": "pres_thumb/css_variables_GCr.jpg",
       "title": "CSS Variables in the real life",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245703857",
+      "slidesLink": "https://www.dropbox.com/s/gwayo9hn7vfv2q1/CSS-Variables.pdf?dl=0",
       "date": "May 2018",
       "authors": [
         {
@@ -967,6 +983,7 @@
       "thumb": "pres_thumb/accessibility_101_AVa.jpg",
       "title": "Accessibility 101",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245703857",
+      "slidesLink": "https://slides.com/alainvagner/deck#/",
       "date": "May 2018",
       "authors": [
         {
@@ -981,6 +998,7 @@
       "thumb": "pres_thumb/react_native_OGh.jpg",
       "title": "React Native in production",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245700690",
+      "slidesLink": "https://github.com/ou2s/slides/raw/master/JSMeetup%20Luxembourg%20-%2003042018/JSMeetup_RN_in_Production.pdf",
       "date": "April 2018",
       "authors": [
         {
@@ -995,6 +1013,7 @@
       "thumb": "pres_thumb/html_streaming_CWa.jpg",
       "title": "HTML Streaming",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245700690",
+      "slidesLink": "https://github.com/GrosSacASac/JavaScript-Set-Up/tree/master/general/html-streaming",
       "date": "April 2018",
       "authors": [
         {
@@ -1039,6 +1058,7 @@
       "thumb": "pres_thumb/visual_regression_AGa.jpg",
       "title": "Visual regression testing",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/245703813",
+      "slidesLink": "https://github.com/Algar/JSLuxembourg-February2018-VisualRegressionTesting",
       "date": "February 2018",
       "authors": [
         {
