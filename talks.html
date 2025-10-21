@@ -73,7 +73,7 @@
         authorHtml.push(`<div class="author-avatar-placeholder" title="${author.name}" role="img" aria-label="Avatar placeholder for ${author.name}"></div>`);
       }
     }
-    
+
     load_presentation_data().then(presentation_data => {
       const talksGrid = document.querySelector('.talks-grid');
       presentation_data.slides.forEach(talk => {
@@ -82,9 +82,9 @@
         talkElement.className = 'talk-card';
 
         const link = document.createElement('a');
-        link.href = talk.link || talk.slidesLink || '#';
+        link.href = talk.link || talk.eventLink || talk.slidesLink || '#';
         link.className = 'talk-link';
-        if (talk.link) {
+        if (talk.link || talk.eventLink || talk.slidesLink) {
           link.target = '_blank';
           link.rel = 'noopener noreferrer';
         }
