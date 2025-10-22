@@ -277,6 +277,34 @@
       ]
     },
     {
+      "link": "https://www.youtube.com/watch?v=60-cfqBzaBY",
+      "thumb": "https://i.ytimg.com/vi/60-cfqBzaBY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gEyggMA8=&rs=AOn4CLD0GxFQtd-UMXUFxmtzRUpOmhlsnA",
+      "title": "Why do frontend developers need information security?",
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/296677366",
+      "date": "November 2023",
+      "authors": [
+        {
+          "name": "Olga Limonova",
+          "link": "https://www.linkedin.com/in/limonova-psy/",
+          "image": "img/speakers/olgaLimonova.jpeg"
+        }
+      ]
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=i112HJ42-YI",
+      "thumb": "https://i9.ytimg.com/vi_webp/i112HJ42-YI/mq1.webp?sqp=COD74scG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE8gVihlMA8=&rs=AOn4CLBp1T7gEVzw54h4rzNCI-L09EqrIA",
+      "title": "Wireframes: playing a Designer",
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/296677366",
+      "date": "November 2023",
+      "authors": [
+        {
+          "name": "Katia Gutman",
+          "link": "https://www.linkedin.com/in/katiagutman",
+          "image": "img/speakers/katiagutman.jpeg"
+        }
+      ]
+    },
+    {
       "link": "https://www.youtube.com/watch?v=38fgFKZ4doo",
       "thumb": "https://img.youtube.com/vi/38fgFKZ4doo/maxresdefault.jpg",
       "title": "Store the data on the Frontend side",
@@ -324,6 +352,34 @@
       "title": "Frontend apps analysis in prod",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/287825607",
       "date": "November 2022",
+      "authors": [
+        {
+          "name": "Rodislav Moldovan",
+          "link": "https://www.linkedin.com/in/rodislav",
+          "image": "img/speakers/rodislav_moldovan.jpg"
+        }
+      ]
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=i8scdxXtgU0",
+      "thumb": "https://i.ytimg.com/vi/i8scdxXtgU0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgOCg9MA8=&rs=AOn4CLAMvWPKyJYnCW3fCk_dIOO17tfObw",
+      "title": "The next generation of Angular Applications",
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/287826291",
+      "date": "September 2022",
+      "authors": [
+        {
+          "name": "Nicolas Frizzarin,",
+          "link": "https://www.linkedin.com/in/nicolas-frizzarin/",
+          "image": "img/speakers/nicolas_frizzarin.jpg"
+        }
+      ]
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=B2NNVZwqYfM",
+      "thumb": "https://i.ytimg.com/vi/B2NNVZwqYfM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEwgVShlMA8=&rs=AOn4CLAyG98GukJaxh7XxP8AM0fvg98wGA",
+      "title": "Frontent JS apps in Kubernetes, Angular example",
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/287826291",
+      "date": "September 2022",
       "authors": [
         {
           "name": "Rodislav Moldovan",
