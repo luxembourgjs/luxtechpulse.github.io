@@ -1,10 +1,57 @@
 {
   "slides": [
     {
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/311794635",
+      "title": "Impact of AI Assisted Software Development to the Software Engineers",
+      "date": "November 2025",
+      "authors": [
+        {
+          "name": "Onur Ağın",
+          "link": "https://www.linkedin.com/in/onuragin/"
+        }
+      ]
+    },
+    {
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/311794635",
+      "title": "What You Need to Know Before Leaving a Corporate Job to Build Your Own Startup",
+      "date": "November 2025",
+      "authors": [
+        {
+          "name": "Aleksei Kobzarev",
+          "link": "https://www.linkedin.com/in/remagin/"
+        }
+      ]
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=B9heceZd7Do",
+      "thumb": "https://img.youtube.com/vi/B9heceZd7Do/hqdefault.jpg",
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/310361035",
+      "title": "How can I choose (and write) good software libraries?",
+      "date": "October 2025",
+      "authors": [
+        {
+          "name": "Daniel Gray",
+          "link": "https://www.linkedin.com/in/daniel-gray-9370b23b/"
+        }
+      ]
+    },
+    {
+      "eventLink": "https://www.meetup.com/luxtechpulse/events/310360930",
+      "title": "Prompt to Production: Building, Debugging, and Deploying with Firebase Studio & Gemini Code Assist",
+      "date": "September 2025",
+      "authors": [
+        {
+          "name": "Muhammad Ahsan Ayaz",
+          "link": "https://www.linkedin.com/in/ahsanayaz/"
+        }
+      ]
+    },
+    {
       "link": "https://youtu.be/77_42p2gDB0?si=8wYglNzIkmYKd02I",
       "thumb": "https://img.youtube.com/vi/77_42p2gDB0/maxresdefault.jpg",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/310360930",
       "title": "AI Agents: The Industrial Revolution of the SDLC",
+      "slidesLink": "https://drive.google.com/file/d/1uForEwcab8_AEQvj5eK6K-CNx5aynrGa/view",
       "date": "September 2025",
       "authors": [
         {
@@ -17,7 +64,7 @@
     {
       "link": "https://youtu.be/mZn9QSydDc0",
       "thumb": "https://img.youtube.com/vi/mZn9QSydDc0/maxresdefault.jpg",
-      "title": "Switching from Startup to Enterprise",
+      "title": "Hedy Lamarr: Beauty and Intelligence. Piano, Hollywood and Wi-Fi. And how it is all connected",
       "slidesLink": "https://prezi.com/p/kzm-zimdm7bb/hedy-lamarr-hollywood-and-wi-fi/",
       "eventLink": "https://www.meetup.com/luxtechpulse/events/308542648",
       "date": "July 2025",
